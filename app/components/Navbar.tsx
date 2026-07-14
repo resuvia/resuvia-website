@@ -12,6 +12,9 @@ export default function Navbar() {
         alignItems: "center",
         borderBottom: "1px solid #e5e7eb",
         boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
+        position: "sticky",
+        top: 0,
+        zIndex: 1000,
       }}
     >
       <h2 style={{ color: "#2563EB", margin: 0 }}>🚀 Resuvia</h2>
