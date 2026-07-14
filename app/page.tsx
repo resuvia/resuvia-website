@@ -101,6 +101,26 @@ export default function Home() {
   <p>🎯 Naukri Profile Setup - ₹499</p>
   <p><b>🔥 Premium Combo (All 3 Services) - ₹1,199</b></p>
 </div>
+<div
+  style={{
+    marginTop: "60px",
+    padding: "30px",
+    background: "#ffffff",
+    borderRadius: "12px",
+    maxWidth: "800px",
+    marginLeft: "auto",
+    marginRight: "auto",
+    boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
+  }}
+>
+  <h2>⭐ Customer Reviews</h2>
+
+  <p>⭐⭐⭐⭐⭐ "Amazing resume service. I got interview calls within a week!" - Rahul S.</p>
+
+  <p>⭐⭐⭐⭐⭐ "Very professional LinkedIn profile. Highly recommended." - Priya K.</p>
+
+  <p>⭐⭐⭐⭐⭐ "Best resume writing service. Worth every rupee." - Aman G.</p>
+</div>
     </main>
   );
 }
