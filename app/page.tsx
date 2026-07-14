@@ -82,6 +82,25 @@ export default function Home() {
           <p>Job Profile Setup & Optimization</p>
         </div>
       </div>
+      <div
+  style={{
+    marginTop: "50px",
+    background: "#ffffff",
+    padding: "30px",
+    borderRadius: "12px",
+    maxWidth: "600px",
+    marginLeft: "auto",
+    marginRight: "auto",
+    boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
+  }}
+>
+  <h2>💰 Our Prices</h2>
+
+  <p>📄 ATS Resume - ₹399</p>
+  <p>💼 LinkedIn Profile Optimization - ₹599</p>
+  <p>🎯 Naukri Profile Setup - ₹499</p>
+  <p><b>🔥 Premium Combo (All 3 Services) - ₹1,199</b></p>
+</div>
     </main>
   );
 }
