@@ -147,6 +147,25 @@ export default function Home() {
   <p><b>Q. Kya Resume me changes karwa sakte hain?</b></p>
   <p>Haan, delivery ke baad 2 free revisions milenge.</p>
 </div>
+<div
+  style={{
+    marginTop: "50px",
+    padding: "30px",
+    background: "#ffffff",
+    borderRadius: "12px",
+    maxWidth: "800px",
+    marginLeft: "auto",
+    marginRight: "auto",
+    boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
+  }}
+>
+  <h2>📞 Contact Us</h2>
+
+  <p>📱 WhatsApp: +91 8429662753</p>
+  <p>📧 Email: resuviaofficial@gmail.com</p>
+  <p>📍 India</p>
+  <p>⏰ Monday – Saturday | 9:00 AM – 8:00 PM</p>
+</div>
     </main>
   );
 }
