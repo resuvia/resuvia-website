@@ -121,6 +121,32 @@ export default function Home() {
 
   <p>⭐⭐⭐⭐⭐ "Best resume writing service. Worth every rupee." - Aman G.</p>
 </div>
+<div
+  style={{
+    marginTop: "50px",
+    padding: "30px",
+    background: "#ffffff",
+    borderRadius: "12px",
+    maxWidth: "800px",
+    marginLeft: "auto",
+    marginRight: "auto",
+    boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
+  }}
+>
+  <h2>❓ Frequently Asked Questions</h2>
+
+  <p><b>Q. ATS Resume kya hota hai?</b></p>
+  <p>ATS Resume aisa resume hota hai jo companies ke ATS software me easily pass ho jata hai.</p>
+
+  <p><b>Q. Delivery kitne time me milegi?</b></p>
+  <p>24–48 hours ke andar.</p>
+
+  <p><b>Q. Payment kaise kar sakte hain?</b></p>
+  <p>UPI, Bank Transfer ya WhatsApp ke through.</p>
+
+  <p><b>Q. Kya Resume me changes karwa sakte hain?</b></p>
+  <p>Haan, delivery ke baad 2 free revisions milenge.</p>
+</div>
     </main>
   );
 }
