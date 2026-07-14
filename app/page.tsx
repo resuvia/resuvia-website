@@ -6,14 +6,15 @@ export default function Home() {
     <Navbar />
     <main
       style={{
-        background: "#f8fbff",
+        background: "linear-gradient(135deg, #eef6ff, #ffffff)",
         minHeight: "100vh",
         fontFamily: "Arial, sans-serif",
-        padding: "40px",
+        padding: "80px 40px",
         textAlign: "center",
       }}
     >
-      <h1 style={{ fontSize: "48px", color: "#0f172a" }}>
+      <h1 style={{ fontSize: "64px", color: "#0f172a",
+      fontWeight: "bold", marginBottom: "20px" }}>
         🚀 Get Hired Faster
       </h1>
 
@@ -33,6 +34,8 @@ export default function Home() {
           textDecoration: "none",
           fontSize: "20px",
           fontWeight: "bold",
+          cursor: "pointer",
+          transition: "0.3s",
         }}
       >
         Order on WhatsApp
