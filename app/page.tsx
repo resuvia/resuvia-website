@@ -18,7 +18,7 @@ export default function Home() {
       </p>
 
       <a
-        href="https://wa.me/91XXXXXXXXXX"
+        href="https://wa.me/918429662753?text=Hello%20Resuvia,%20I%20want%20to%20order%20a%20resume."
         style={{
           display: "inline-block",
           marginTop: "30px",
