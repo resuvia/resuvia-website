@@ -1,5 +1,8 @@
+import Navbar from "./components/Navbar";
 export default function Home() {
   return (
+    <>
+    <Navbar />
     <main
       style={{
         background: "#f8fbff",
@@ -167,5 +170,6 @@ export default function Home() {
   <p>⏰ Monday – Saturday | 9:00 AM – 8:00 PM</p>
 </div>
     </main>
+    </>
   );
 }
