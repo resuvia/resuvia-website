@@ -204,6 +204,18 @@ recommended."
   <p>📍 India</p>
   <p>⏰ Monday – Saturday | 9:00 AM – 8:00 PM</p>
 </div>
+<footer
+style={{
+  marginTop: "40px",
+   padding: "20px",
+   background: "#111827",
+   color: "white",
+   textAlign: "center",
+   borderRadius: "10px",
+   }}
+   >
+    © 2026 Resuvia. All Rights Reserved.
+   </footer>
     </main>
     </>
   );
