@@ -21,7 +21,17 @@ export default function Home() {
       <p style={{ fontSize: "22px", color: "#555", marginTop: "20px" }}>
         Professional Resume, LinkedIn Profile & Job Profile Services
       </p>
-
+      
+      <p
+        style={{
+           color: "#2563EB",
+            fontSize: "18px",
+             fontWeight: "bold",
+              marginTop: "10px",
+               }}
+               >
+                Trusted by Job Seekers Across India 🇮🇳
+               </p>
       <a
         href="https://wa.me/918429662753?text=Hello%20Resuvia,%20I%20want%20to%20order%20a%20resume."
         style={{
@@ -74,8 +84,10 @@ export default function Home() {
             boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
           }}
         >
-          <h2>💼 LinkedIn Profile</h2>
-          <p>Complete LinkedIn Optimization</p>
+          <h2 style={{ color: "#111827" }}>💼 LinkedIn Profile</h2>
+          <p style={{ color: "#4B5563" }}>
+             Complete LinkedIn Optimization
+             </p>
         </div>
 
         <div
@@ -87,8 +99,10 @@ export default function Home() {
             boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
           }}
         >
-          <h2>🎯 Naukri Profile</h2>
-          <p>Job Profile Setup & Optimization</p>
+          <h2 style={{ color: "#111827" }}>🎯 Naukri Profile</h2>
+          <p style={{ color: "#4B5563" }}>
+            Job Profile Setup & Optimization
+          </p>
         </div>
       </div>
       <div
