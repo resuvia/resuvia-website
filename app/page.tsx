@@ -34,7 +34,13 @@ export default function Home() {
                 Trusted by Job Seekers Across India 🇮🇳
                </p>
       <a
-        href="https://wa.me/918429662753?text=Hello%20Resuvia,%20I%20want%20to%20order%20a%20resume."
+        href="https://wa.me/918429662753?
+        text=Hello%20Resuvia!%0A%0AMujhe%20aapki%20services%20ke%20baar
+        e%20me%20jaankari%20chahiye.%0A%0A📄%20ATS%20Resume%20-
+        %20₹399%0A💼%20LinkedIn%20Profile%20Optimization%20-
+        %20₹599%0A🎯%20Naukri%20Profile%20Setup%20-%20₹499%0A🔥
+        %20Premium%20Combo%20(All%203%20Services)%20-
+        %20₹1199%0A%0APlease%20guide%20me."
         style={{
           display: "inline-block",
           marginTop: "30px",
