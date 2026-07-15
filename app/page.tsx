@@ -149,20 +149,21 @@ export default function Home() {
   }}
 >
   <div style={{ background: "#fff", padding: "25px", width: "250px", borderRadius: "15px", boxShadow: "0 5px 15px rgba(0,0,0,0.1)" }}>
-    <h3>📄 ATS Resume</h3>
-    <p>Professional Resume</p>
+    <h3 style={{ color: "#111827" }}>📄 ATS Resume</h3>
+    <p style={{ color: "#4B5563" }}>Professional Resume</p>
     <h2 style={{ color: "#2563EB" }}>₹399</h2>
   </div>
 
   <div style={{ background: "#fff", padding: "25px", width: "250px", borderRadius: "15px", boxShadow: "0 5px 15px rgba(0,0,0,0.1)" }}>
-    <h3>💼 LinkedIn Profile</h3>
-    <p>Complete Optimization</p>
+    <h3 style={{ color: "#111827" }}>💼 LinkedIn Profile</h3>
+    <p style={{ color: "#4B5563" }}>Complete LinkedIn 
+     Optimization</p>
     <h2 style={{ color: "#2563EB" }}>₹599</h2>
   </div>
 
   <div style={{ background: "#fff", padding: "25px", width: "250px", borderRadius: "15px", boxShadow: "0 5px 15px rgba(0,0,0,0.1)" }}>
-    <h3>🎯 Naukri Profile</h3>
-    <p>Profile Setup & Optimization</p>
+    <h3 style={{ color: "#111827" }}>🎯 Naukri Profile</h3>
+    <p style={{ color: "#4B5563" }}>Profile Setup & Optimization</p>
     <h2 style={{ color: "#2563EB" }}>₹499</h2>
   </div>
 </div>
