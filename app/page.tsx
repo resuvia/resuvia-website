@@ -203,6 +203,49 @@ recommended."
     boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
   }}
 >
+  <div
+  style={{
+    marginTop: "50px",
+    padding: "30px",
+    background: "#ffffff",
+    borderRadius: "12px",
+    maxWidth: "800px",
+    margin: "auto",
+    boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
+  }}
+>
+  <h2>📝 Order Now</h2>
+
+  <p>👤 Name</p>
+  <input type="text" placeholder="Enter Your Name" />
+
+  <p>📱 Mobile Number</p>
+  <input type="text" placeholder="Enter Mobile Number" />
+
+  <p>📋 Select Service</p>
+  <select>
+    <option>ATS Resume - ₹399</option>
+    <option>LinkedIn Profile - ₹599</option>
+    <option>Naukri Profile - ₹499</option>
+    <option>Premium Combo - ₹1199</option>
+  </select>
+
+  <br /><br />
+
+  <button
+    style={{
+      background: "#25D366",
+      color: "white",
+      padding: "15px 30px",
+      border: "none",
+      borderRadius: "10px",
+      fontSize: "18px",
+      cursor: "pointer",
+    }}
+  >
+    📲 Order on WhatsApp
+  </button>
+</div>
   <h2>📞 Contact Us</h2>
 
   <p>📱 WhatsApp: +91 8429662753</p>
