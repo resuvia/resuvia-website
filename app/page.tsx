@@ -152,6 +152,21 @@ export default function Home() {
     <h3 style={{ color: "#111827" }}>📄 ATS Resume</h3>
     <p style={{ color: "#4B5563" }}>Professional Resume</p>
     <h2 style={{ color: "#2563EB" }}>₹399</h2>
+    <a
+  href="https://wa.me/918429662753?text=Hi%20I%20want%20to%20order%20ATS%20Resume"
+  style={{
+    display: "inline-block",
+    marginTop: "15px",
+    background: "#2563EB",
+    color: "white",
+    padding: "10px 20px",
+    borderRadius: "8px",
+    textDecoration: "none",
+    fontWeight: "bold",
+  }}
+>
+  Order Now
+</a>
   </div>
 
   <div style={{ background: "#fff", padding: "25px", width: "250px", borderRadius: "15px", boxShadow: "0 5px 15px rgba(0,0,0,0.1)" }}>
@@ -159,12 +174,42 @@ export default function Home() {
     <p style={{ color: "#4B5563" }}>Complete LinkedIn 
      Optimization</p>
     <h2 style={{ color: "#2563EB" }}>₹599</h2>
+    <a
+  href="https://wa.me/918429662753?text=Hi%20I%20want%20to%20order%20LinkedIn%20Profile"
+  style={{
+    display: "inline-block",
+    marginTop: "15px",
+    background: "#2563EB",
+    color: "white",
+    padding: "10px 20px",
+    borderRadius: "8px",
+    textDecoration: "none",
+    fontWeight: "bold",
+  }}
+>
+  Order Now
+</a>
   </div>
 
   <div style={{ background: "#fff", padding: "25px", width: "250px", borderRadius: "15px", boxShadow: "0 5px 15px rgba(0,0,0,0.1)" }}>
     <h3 style={{ color: "#111827" }}>🎯 Naukri Profile</h3>
     <p style={{ color: "#4B5563" }}>Profile Setup & Optimization</p>
     <h2 style={{ color: "#2563EB" }}>₹499</h2>
+    <a
+  href="https://wa.me/918429662753?text=Hi%20I%20want%20to%20order%20Naukri%20Profile"
+  style={{
+    display: "inline-block",
+    marginTop: "15px",
+    background: "#2563EB",
+    color: "white",
+    padding: "10px 20px",
+    borderRadius: "8px",
+    textDecoration: "none",
+    fontWeight: "bold",
+  }}
+>
+  Order Now
+</a>
   </div>
 </div>
 
