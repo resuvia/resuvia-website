@@ -56,6 +56,60 @@ export default function Home() {
       >
         🚀 Get Started on WhatsApp
       </a>
+
+      {/* Services Section */}
+
+<div
+  style={{
+    marginTop: "80px",
+    display: "flex",
+    justifyContent: "center",
+    gap: "25px",
+    flexWrap: "wrap",
+  }}
+>
+  <div
+    style={{
+      background: "#ffffff",
+      padding: "30px",
+      width: "250px",
+      borderRadius: "15px",
+      boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
+    }}
+  >
+    <h2>📄 ATS Resume</h2>
+    <p>Professional Resume for Jobs</p>
+    <h3 style={{ color: "#2563EB" }}>₹399</h3>
+  </div>
+
+  <div
+    style={{
+      background: "#ffffff",
+      padding: "30px",
+      width: "250px",
+      borderRadius: "15px",
+      boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
+    }}
+  >
+    <h2>💼 LinkedIn Profile</h2>
+    <p>Complete LinkedIn Optimization</p>
+    <h3 style={{ color: "#2563EB" }}>₹599</h3>
+  </div>
+
+  <div
+    style={{
+      background: "#ffffff",
+      padding: "30px",
+      width: "250px",
+      borderRadius: "15px",
+      boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
+    }}
+  >
+    <h2>🎯 Naukri Profile</h2>
+    <p>Profile Setup & Optimization</p>
+    <h3 style={{ color: "#2563EB" }}>₹499</h3>
+  </div>
+</div>
     </main>
   );
 }
