@@ -166,6 +166,7 @@ export default function Home() {
     <h2 style={{ color: "#2563EB" }}>₹499</h2>
   </div>
 </div>
+
     </main>
   );
 }
