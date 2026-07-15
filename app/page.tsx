@@ -204,6 +204,28 @@ recommended."
   <p>📍 India</p>
   <p>⏰ Monday – Saturday | 9:00 AM – 8:00 PM</p>
 </div>
+<div
+ style={{
+  marginTop: "50px",
+  padding: "30px",
+  background: "#ffffff",
+  borderRadius: "12px",
+  maxWidth: "800px",
+  marginLeft: "auto",
+  marginRight: "auto",
+  boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
+ }}
+>
+
+  <h2>🚀 Why Choose Resuvia?</h2>
+
+  <p>✅ ATS-Friendly Professional Resume</p>
+  <p>✅ Fast Delivery (24–48 Hours)</p>
+  <p>✅ 2 Free Revisions</p>
+  <p>✅ Affordable Pricing</p>
+  <p>✅ WhatsApp Support</p>
+ </div>
+
 <footer
 style={{
   marginTop: "40px",
