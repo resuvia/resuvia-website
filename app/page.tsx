@@ -138,12 +138,26 @@ export default function Home() {
   }}
 >
   <h2>⭐ Customer Reviews</h2>
+<p style={{ fontSize: "18px", color: "#333", marginTop:
+"20px" }}>
+  ⭐⭐⭐⭐⭐ <b>Rahul S.</b><br />
+  "Resume bahut professional bana. 10 din me interview
+  call aa gaya."
+</p>
 
-  <p>⭐⭐⭐⭐⭐ "Amazing resume service. I got interview calls within a week!" - Rahul S.</p>
-
-  <p>⭐⭐⭐⭐⭐ "Very professional LinkedIn profile. Highly recommended." - Priya K.</p>
-
-  <p>⭐⭐⭐⭐⭐ "Best resume writing service. Worth every rupee." - Aman G.</p>
+<p style={{ fontSize: "18px", color: "#333", marginTop: 
+"20px" }}>
+  ⭐⭐⭐⭐⭐ <b>Priya K.</b><br />
+  "LinkedIn profile optimize karne ke baad profile views
+  kaafi badh gaye."
+</p>
+<p style={{ fontSize: "18px", color: "#333", marginTop:
+"20px" }}>
+⭐⭐⭐⭐⭐ <b>Aman G.</b><br />
+"Fast service aur quality bahut achhi thi. Highly
+recommended."
+</p>
+  
 </div>
 <div
   style={{
