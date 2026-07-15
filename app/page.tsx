@@ -15,11 +15,12 @@ export default function Home() {
     >
       <h1 style={{ fontSize: "64px", color: "#0f172a",
       fontWeight: "bold", marginBottom: "20px" }}>
-        🚀 Get Hired Faster
+        🚀 Get Your Dream Job Faster
       </h1>
 
       <p style={{ fontSize: "22px", color: "#555", marginTop: "20px" }}>
-        Professional Resume, LinkedIn Profile & Job Profile Services
+        Professional ATS Resume, LinkedIn & Naukri Profile 
+        Services That Help You Get More Interview Calls
       </p>
       
       <p
@@ -48,7 +49,7 @@ export default function Home() {
           transition: "0.3s",
         }}
       >
-        Order on WhatsApp
+        🚀 Get Started on WhatsApp
       </a>
 
       <div
