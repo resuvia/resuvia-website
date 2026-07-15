@@ -77,8 +77,8 @@ export default function Home() {
       boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
     }}
   >
-    <h2>📄 ATS Resume</h2>
-    <p>Professional Resume for Jobs</p>
+    <h2 style={{ color: "#111827" }}>📄 ATS Resume</h2>
+    <p style={{ color: "#4B5563" }}>Professional Resume for Jobs</p>
     <h3 style={{ color: "#2563EB" }}>₹399</h3>
   </div>
 
@@ -91,8 +91,9 @@ export default function Home() {
       boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
     }}
   >
-    <h2>💼 LinkedIn Profile</h2>
-    <p>Complete LinkedIn Optimization</p>
+    <h2 style={{ color: "#111827" }}>💼 LinkedIn Profile</h2>
+    <p style={{ color: "#4B5563" }}>Complete LinkedIn 
+     Optimization</p>
     <h3 style={{ color: "#2563EB" }}>₹599</h3>
   </div>
 
@@ -105,8 +106,9 @@ export default function Home() {
       boxShadow: "0 5px 15px rgba(0,0,0,0.1)",
     }}
   >
-    <h2>🎯 Naukri Profile</h2>
-    <p>Profile Setup & Optimization</p>
+    <h2 style={{ color: "#111827" }}>🎯 Naukri Profile</h2>
+    <p style={{ color: "#4B5563" }}>Profile Setup &
+     Optimization</p>
     <h3 style={{ color: "#2563EB" }}>₹499</h3>
   </div>
 </div>
