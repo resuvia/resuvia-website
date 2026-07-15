@@ -112,6 +112,60 @@ export default function Home() {
     <h3 style={{ color: "#2563EB" }}>₹499</h3>
   </div>
 </div>
+
+<div
+  style={{
+    marginTop: "80px",
+    textAlign: "center",
+  }}
+>
+  <h2
+    style={{
+      fontSize: "40px",
+      color: "#111827",
+      marginBottom: "10px",
+    }}
+  >
+    💰 Our Pricing
+  </h2>
+
+  <p
+    style={{
+      fontSize: "18px",
+      color: "#555",
+    }}
+  >
+    Affordable plans for everyone
+  </p>
+</div>
+
+<div
+  style={{
+    display: "flex",
+    justifyContent: "center",
+    gap: "25px",
+    marginTop: "40px",
+    flexWrap: "wrap",
+  }}
+>
+  <div style={{ background: "#fff", padding: "25px", width: "250px", borderRadius: "15px", boxShadow: "0 5px 15px rgba(0,0,0,0.1)" }}>
+    <h3>📄 ATS Resume</h3>
+    <p>Professional Resume</p>
+    <h2 style={{ color: "#2563EB" }}>₹399</h2>
+  </div>
+
+  <div style={{ background: "#fff", padding: "25px", width: "250px", borderRadius: "15px", boxShadow: "0 5px 15px rgba(0,0,0,0.1)" }}>
+    <h3>💼 LinkedIn Profile</h3>
+    <p>Complete Optimization</p>
+    <h2 style={{ color: "#2563EB" }}>₹599</h2>
+  </div>
+
+  <div style={{ background: "#fff", padding: "25px", width: "250px", borderRadius: "15px", boxShadow: "0 5px 15px rgba(0,0,0,0.1)" }}>
+    <h3>🎯 Naukri Profile</h3>
+    <p>Profile Setup & Optimization</p>
+    <h2 style={{ color: "#2563EB" }}>₹499</h2>
+  </div>
+</div>
     </main>
   );
 }
